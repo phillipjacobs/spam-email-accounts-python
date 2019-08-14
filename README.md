@@ -41,7 +41,7 @@
 
 ##### Enter an Email Subject: `This is a subject`
 ##### Message To Email: `This is a message`
-##### Number of emails copies to send: `140` 😅😂🤣🤣😂🤣🤣😂🤣😂😂😂 Thats insane but ok hahahhaha go crazy !
+##### Number of email copies to send: `140` 😅😂🤣🤣😂🤣🤣😂🤣😂😂😂 Thats insane but ok hahahhaha go crazy !
 
 
 
