@@ -1,4 +1,4 @@
-# explodeEmailAccounts
+# spamEmailAccounts
 ### Spam some email accounts
 #### 😄(your own emails... for educational purposes of course 🤨 ....)
 
